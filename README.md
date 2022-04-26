@@ -37,5 +37,6 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+I'm a very ambitions excited learner who is currently exploring full stack software development. I have a knowledge of many industries, professional experience in business operations including finance, legal, compliance and processes and enjoy learning new technologies to help businesses grow.
 
+[a link] (https: https://github.com/AmyWilhoite)
