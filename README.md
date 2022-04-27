@@ -1,10 +1,11 @@
-# regex
+# regex tutorial
 
 This is a regular tutorial that explains how a specific regular expression, or regex, functions by breaking down each part of the expression and describing what it does
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+Because regex is such a powerful useful tool, it's useful to understand some of the different ways taht regex can be used to manage large sets of data. 
+
 
 ## Table of Contents
 
